@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/recipe-apibasedapp/static/js/main.42c336ce.js",
+    "index.html": "/recipe-apibasedapp/index.html",
+    "main.42c336ce.js.map": "/recipe-apibasedapp/static/js/main.42c336ce.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.42c336ce.js"
+  ]
+}
